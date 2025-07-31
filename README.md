@@ -55,7 +55,7 @@ Grab all the files listed below and drop them into **one folder**:
 |-------|----------|
 | Loader won't start | Run as Administrator, check all DLLs are present |
 | Overlay not showing | Press Insert, restart Fortnite if needed |
-| Features not working | Update to latest version, check offsets |
+| Features not working | Update to latest version,|
 | Antivirus blocking | Add folder to exclusions |
 
 ---
