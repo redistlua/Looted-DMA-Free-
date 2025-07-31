@@ -1,5 +1,5 @@
 🛠️ Looted DMA | Free Fortnite
-🗓️ Version: 06/19/2025 — ✅ Fully Working
+🗓️ Version: 07/30/2025 — ✅ Fully Working
 
 ⚙️ Installation Guide
 📦 Step 1: Download Essentials
