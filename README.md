@@ -37,3 +37,6 @@ If something doesn’t load, double-check your files are in place and no antivir
 This is a free test build of Looted DMA.
 There’s no guarantee of stability or support.
 Use at your own risk. We’re not liable for bans, crashes, or misuse.
+
+
+https://discord.gg/AUbR9hQkMC
